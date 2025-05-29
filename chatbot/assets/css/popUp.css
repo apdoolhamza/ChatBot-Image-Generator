@@ -1,0 +1,46 @@
+@font-face {
+	font-family: '33535gillsansmt';
+	src: local('33535gillsansmt'), url('../fonts/33535gillsansmt.woff') format('woff');
+}
+.pop-up{
+width:15rem;
+height:45px;
+position:fixed;
+display:flex;
+justify-content:center;
+align-items:center;
+top:10px;
+left:0;
+right:0;
+padding:10px 13px;
+margin:0 auto;
+border-radius:5px;
+background-color:#fafafa;
+color:black;
+font-size:13px;
+z-index:99999;
+animation: marginTop .3s;
+display:none;
+font-family: '33535gillsansmt' !important;
+}
+@keyframes marginTop {
+   10%{margin-top:20px;}
+}
+.pop-up .exclamIcon{
+    font-size:18px;
+}
+.pop-up .closeIcon{
+    cursor:pointer;
+    padding:4px;
+}
+.pop-up .popTitle{
+    margin-left:8px;
+    font-size:18px;
+}
+.pop-up .popDesc{
+width:10.5rem;
+font-size:13px;
+color:rgb(75, 75, 75);
+margin:-6px 0 0 8px;
+line-height:1;
+}
