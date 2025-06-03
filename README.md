@@ -1,3 +1,5 @@
+![Project Screenshot](Screeenshots/localhost_chatbot_index.php.png)
+
 # ChatBot & Image Generator AI
 # Guide:
 
