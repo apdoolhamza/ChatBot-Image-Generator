@@ -43,6 +43,15 @@ Make sure to paste your Hugging Face API key inside "apikey.php" file!
 3. Generate images by providing descriptive text prompts (e.g., "A futuristic Lagos skyline").
 4. View chatbot responses and generated images directly in the web interface.
 
+## Contributions
+Contributions are welcome! To contribute:
+
+1. **Fork** the repository.
+2. **Create a new branch** (`git checkout -b feature-branch`).
+3. **Commit your changes** (`git commit -m "Add some feature"`).
+4. **Push to the branch** (`git push origin feature-branch`).
+5. **Open a Pull Request**.
+
 ## Contact
 Apdoolmajeed Hamza - [LinkedIn Profile](https://www.linkedin.com/in/apdoolhamza/) | [GitHub Profile](https://github.com/apdoolhamza/)
 
