@@ -2,7 +2,6 @@
 An ai-powered web application that combines Natural Language chatbot interaction and image generation using advanced API integrations.
 
 [![Watch the video](https://img.youtube.com/vi/Cjp2vKIxJzQ/maxresdefault.jpg)](https://youtu.be/Cjp2vKIxJzQ)
-
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/Cjp2vKIxJzQ)
 
 ## Features
